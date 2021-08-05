@@ -10,12 +10,9 @@
   },
   "dependencies": {
     "@babel/plugin-syntax-nullish-coalescing-operator": "^7.8.3",
-    "cheap-ruler": "^2.5.1",
-    "d3-fetch": "^1.1.2",
-    "geojson-bounds": "^1.0.2",
     "mapbox-gl": "^1.6.1",
-    "mapbox-gl-utils": "^0.28.1",
-    "sheets2geojson": "^0.0.2",
+    "mapbox-gl-utils": "^0.39.0",
+    "maplibre-gl": "^1.15.2",
     "vue": "^2.5.21"
   },
   "devDependencies": {
