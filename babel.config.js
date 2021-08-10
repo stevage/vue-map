@@ -1,5 +1,4 @@
 module.exports = {
-  presets: [
-    '@vue/app'
-  ]
-}
+    ignore: [process.env.NODE_ENV !== 'production' ? './src' : ''],
+    presets: ['@vue/app'],
+};
